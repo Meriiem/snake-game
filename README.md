@@ -14,9 +14,12 @@ To run this project, you will need:
 ### Installation
 
 1. Clone the repository to your local machine using Git:
-2. Open the solution file (`SnakeGame.sln`) in Microsoft Visual Studio.
+   ```bash
+   git clone https://github.com/Meriiem/snake-game.git
+   
+3. Open the solution file (`SnakeGame.sln`) in Microsoft Visual Studio.
 
-3. Build and run the application by pressing `F5` or clicking on the `Start` button in Visual Studio.
+4. Build and run the application by pressing `F5` or clicking on the `Start` button in Visual Studio.
 
 ## How to Play
 
