@@ -1,6 +1,7 @@
 # Snake Game
 
 This is a simple snake game implemented in C# as a programming exercise. The game is developed using WPF in Microsoft Visual Studio, showcasing basic game development in a desktop application.
+![Alt text for the GIF](Assets/vid.gif)
 
 ## Getting Started
 
